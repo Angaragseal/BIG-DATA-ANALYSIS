@@ -100,3 +100,12 @@ Although the dataset is minimal (only 2 records), the system is scalable for mil
 ## Conclusion
 
 This project demonstrates foundational big data processing using PySpark. It’s scalable, insightful, and ready for real-world applications in industries dealing with high-volume transactional data.
+
+---
+
+##Output
+![Image](https://github.com/user-attachments/assets/a69c989d-0152-4aaa-9816-63df69027aca)
+![Image](https://github.com/user-attachments/assets/91d4e16b-b473-4bdf-8154-1178cb26063e)
+![Image](https://github.com/user-attachments/assets/ae4db39b-b721-4c9d-b7e5-fa2858e19772)
+![Image](https://github.com/user-attachments/assets/fcddb964-0ef4-4fb5-ac36-05424f78f314)
+![Image](https://github.com/user-attachments/assets/e439e0e7-b4cd-4c34-8ece-3fc150dd8408)
